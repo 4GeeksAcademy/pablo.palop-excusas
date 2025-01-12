@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: wheat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    background-color: white;
+    border-radius: 15px;
+    padding: 30px 20px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15);
+    text-align: center;
+    width: 90%;
+    max-width: 500px;
+}
+
+h1 {
+    color: black;
+    font-size: 1.5rem;
+    margin: 10px 0;
+}
+
+#excuse {
+    color: darkgray;
+    font-style: italic;
+    margin-top: 20px;
+}
